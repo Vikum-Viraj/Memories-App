@@ -21,7 +21,7 @@ app.use('/posts',router);
 app.use('/user',userRouter);
 
 
-const CONNECTION_URL = 'mongodb+srv://Viraj:N0TMOAn9hZzYtCUt@cluster0.ssbpou4.mongodb.net/Memory?retryWrites=true&w=majority'
+const CONNECTION_URL = ''
 const PORT = process.env.PORT || 5000;
 
 
