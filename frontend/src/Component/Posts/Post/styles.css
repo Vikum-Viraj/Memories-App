@@ -1,0 +1,67 @@
+
+.media{
+
+    height: 0;
+    padding-top: 200px;
+    background-color: rgb(90, 98, 239);
+    background-blend-mode: 'darken';
+
+}
+
+
+
+.card{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border: 2px solid #2767de;
+    padding: 2px;
+    height:100%;
+    width: 90%;
+    position: relative;
+    bottom: -8px;
+
+}
+
+
+.overlay{
+
+    position: absolute;
+    top:20px;
+    left: 20px;
+    color: white;
+}
+
+.overlay2{
+
+    position: absolute;
+    top:20px;
+    right: 20px;
+    color: rgb(186, 228, 237);
+}
+
+
+.details{
+
+    display: 'flex';
+    justify-content: 'space-between';
+    margin: '20px';
+}
+
+
+.title{
+
+    padding: '0 16px';
+}
+
+.cardActions{
+
+    padding: 0 16px 8px 16px;
+    display: 'flex';
+    justify-content: 'space-between';
+}
+
+.grid{
+    display: 'flex';
+}

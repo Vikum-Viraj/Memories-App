@@ -1,0 +1,47 @@
+
+
+.paper{
+    margin-top:10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+ 
+}
+
+
+
+
+.root{
+
+    margin: 10px;
+}
+
+.avatar{
+    margin: 10px;
+    background-color: rgb(16, 137, 144);
+}
+
+.form{
+
+    width:100%;
+    margin-top:10px;
+    background-color:aliceblue;
+}
+
+.submit{
+     
+    margin: 10px;
+    
+}
+
+.googleButton{
+
+    margin-bottom: 20px;
+    
+}
+
+.Switch{
+
+    margin-top: 20px;
+}

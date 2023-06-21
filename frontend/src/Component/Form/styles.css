@@ -1,0 +1,32 @@
+
+.form{
+
+    background-color: rgb(174, 237, 237);
+    display: 'flex';
+    flex-wrap: 'wrap';
+    justify-content: 'center'
+}
+
+
+
+.paper{
+    
+    margin-top: 10px;
+    padding: 4px;
+    max-width: 300px;
+    margin-left: 105px;
+    position: relative;
+    right: -290px;
+    
+}
+
+.fileInput{
+
+    width: '50%';
+    margin: '10px 0';
+}
+
+.buttonSubmit{
+
+    margin-bottom: 10px;
+}
